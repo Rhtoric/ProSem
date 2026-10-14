@@ -18,8 +18,8 @@ The code will be built with the following main dependencies:
 ## 📝 Citation
 If you find our work helpful, please consider citing:
 ```bibtex
-@article{li2026promine,
-  title={Pro-Mine: A Progressive Hard Negative Mining Framework for Cross-Modal Drone Image-Text Retrieval},
+@article{li2026prosem,
+  title={ProSem: Progressive Semantic Disambiguation for Drone Image–Text Retrieva},
   author={Li, Zengyi, Gao, Junyu and Yuan, Yuan},
   journal={Under Review},
   year={2026}
